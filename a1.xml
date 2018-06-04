@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!-- Include your name in this opening and also the closing tag 
+		 Take out all text in opening and closing tag and include just your username -->
+<anjo>
+
+	<!-- Include your Sheridan Student number in the studentNumber attribute-->
+	<student studentNumber="991448483">
+	
+		<!-- Include your full name -->	
+		<studentName>Joon Seo An</studentName>
+
+		<!-- Include your Program -->	
+		<studentProg>Computer Programmer</studentProg>
+		
+		<!-- Include your Campus -->	
+		<studentCampus>Trafalgar Campus</studentCampus>
+			
+		<!-- Include an image filename for an image of you -->
+		<image>images/joon.jpg</image>
+		
+		<!-- Include information for 3 of your favorite cities 
+				 ex. City Name="Toronto"
+						country ="Canada"
+						province="Ontario"
+						 image="_images/toronto.jpg"-->
+		
+		<city lat="" long="">
+			<name>Toronto</name>
+			<country>Canada</country>
+			<province>Ontario</province>
+			<image>images/toronto.jpg</image>
+		</city>
+		<city lat="" long="">
+			<name>Seoul</name>
+			<country>Korea</country>
+			<province>Seoul does not have a provice or state</province>
+			<image>images/seoul.jpg</image>
+		</city>
+		<city lat="" long="">
+			<name>Denver</name>
+			<country>USA</country>
+			<province>CO</province>
+			<image>images/denver.jpg</image>
+		</city>
+	</student>
+</anjo>
+
+
